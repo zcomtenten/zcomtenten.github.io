@@ -25,3 +25,5 @@ description: your resume
 baseurl: "/jekyll-timeline"
 url: http://himsel.me
 color: "#f2f2f2"
+
+theme: jekyll-theme-architect

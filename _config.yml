@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Zcom-TENTEN
 timezone: Europe/Berlin
 collections:
   posts:
@@ -23,7 +23,7 @@ highlighter: rouge
 lsi: false
 description: your resume
 baseurl: "/"
-url: http://himsel.me
+url: https://zcomtenten.github.io
 color: "#f2f2f2"
 
 theme: jekyll-theme-architect
